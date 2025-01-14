@@ -1,0 +1,1 @@
+// Gestion du contexte utilisateur (authentification, niveau, etc.)
