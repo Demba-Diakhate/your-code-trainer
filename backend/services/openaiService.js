@@ -1,0 +1,1 @@
+// Service pour interagir avec OpenAI
